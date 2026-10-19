@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.2.1
+
+- Window chrome: header and footer bars now run edge to edge. They previously stopped short of the rounded corners, leaving a sliver of the image beside each bar. The rounded window corner is still trimmed cleanly.
+- README rebuilt around NAVIG branding and a new hero screenshot.
+
 ## 0.2.0
 
 First public release.

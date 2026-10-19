@@ -3,13 +3,13 @@
 <p align="center"><b>Instant file viewer for Windows.</b><br>
 Images open in about 20 ms. Documents, video and audio are read by the codecs already inside Windows, so the whole program is <b>1 MB</b>.</p>
 
-[![Download](https://img.shields.io/badge/download-v0.2.0-2ea44f)](../../releases/latest)
+[![Download](https://img.shields.io/badge/download-v0.2.1-2ea44f)](../../releases/latest)
 
 ![NAVIG Glass showing an image at 67%](screenshots/1-image.png)
 
 ## Download & install
 
-1. Download `navig-glass-0.2.0.zip` from [Releases](../../releases/latest), or just take `navig-glass.exe` from this repository.
+1. Download `navig-glass-0.2.1.zip` from [Releases](../../releases/latest), or just take `navig-glass.exe` from this repository.
 2. Either **double-click `navig-glass.exe`** — it is portable, no install needed — or run the installer:
 
 ```powershell
