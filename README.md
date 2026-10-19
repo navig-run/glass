@@ -1,10 +1,15 @@
-# NAVIG Glass
+<p align="center">
+  <img src="assets/navig-logo.png" width="96" alt="NAVIG">
+</p>
 
-**Instant file viewer for Windows.** Images open in about 20 ms. Documents, video and audio are read by the codecs already inside Windows, so the whole program is **1 MB**.
+<h1 align="center">NAVIG Glass</h1>
+
+<p align="center"><b>Instant file viewer for Windows.</b><br>
+Images open in about 20 ms. Documents, video and audio are read by the codecs already inside Windows, so the whole program is <b>1 MB</b>.</p>
 
 [![Download](https://img.shields.io/badge/download-v0.2.0-2ea44f)](../../releases/latest)
 
-![NAVIG Glass](screenshots/1-image.png)
+![NAVIG Glass showing an image at 67%](screenshots/1-image.png)
 
 ## Download & install
 
