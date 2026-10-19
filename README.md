@@ -68,3 +68,6 @@ NAVIG Glass is a **viewer**. It does not play video, play audio, select PDF text
 ## Privacy
 
 No network access, no telemetry, no accounts. Files never leave your machine. **Delete is permanent** — it removes the file from disk with no recycle bin.
+## License
+
+Free to download, use and share unmodified. Not for resale, and modified builds may not use the NAVIG name. Full terms in [LICENSE](LICENSE). The source code is not published in this repository.
