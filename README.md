@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/navig-logo.png" width="96" alt="NAVIG">
-</p>
-
 <h1 align="center">NAVIG Glass</h1>
 
 <p align="center"><b>Instant file viewer for Windows.</b><br>
